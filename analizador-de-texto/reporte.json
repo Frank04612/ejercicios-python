@@ -1,0 +1,30 @@
+{
+  "caracteres": 102,
+  "palabras": 10,
+  "lineas": 3,
+  "palabras_mas_larga": "automatizacion",
+  "mas_frecuente": "python",
+  "frecuencia": 3,
+  "top_5": [
+    {
+      "palabra": "python",
+      "cantidad": 3
+    },
+    {
+      "palabra": "lenguaje",
+      "cantidad": 1
+    },
+    {
+      "palabra": "programacion",
+      "cantidad": 1
+    },
+    {
+      "palabra": "muy",
+      "cantidad": 1
+    },
+    {
+      "palabra": "utilizado",
+      "cantidad": 1
+    }
+  ]
+}
